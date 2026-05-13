@@ -1,0 +1,17 @@
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Application.deps.json
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Application.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Application.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Domain.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Persistance.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Domain.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Application\bin\Debug\net9.0\Persistance.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\refint\Application.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\ref\Application.dll

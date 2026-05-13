@@ -1,0 +1,15 @@
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\bin\Debug\net9.0\Persistance.deps.json
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\bin\Debug\net9.0\Persistance.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\bin\Debug\net9.0\Persistance.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\bin\Debug\net9.0\Domain.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\bin\Debug\net9.0\Domain.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.csproj.AssemblyReference.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfoInputs.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.AssemblyInfo.cs
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persista.3F568332.Up2Date
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\refint\Persistance.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\ref\Persistance.dll

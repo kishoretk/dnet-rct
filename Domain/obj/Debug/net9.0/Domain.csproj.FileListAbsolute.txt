@@ -1,0 +1,11 @@
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\bin\Debug\net9.0\Domain.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\ref\Domain.dll

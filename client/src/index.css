@@ -1,0 +1,14 @@
+:root{
+    --primary-color: #1c011f;
+    --secondary-color: #f44336;
+    --background-color: #f0f0f0;
+    --text-color: #333333;
+}
+
+.app{
+    font-family: 'Roboto', sans-serif;
+    color: var(--text-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

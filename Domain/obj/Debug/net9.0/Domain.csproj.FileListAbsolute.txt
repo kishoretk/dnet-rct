@@ -9,3 +9,15 @@ D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.dll
 D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\refint\Domain.dll
 D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.pdb
 D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\All\Samples\DotNet\dnet-rct\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\All\Samples\DotNet\dnet-rct\Domain\bin\Debug\net9.0\Domain.dll
+C:\All\Samples\DotNet\dnet-rct\Domain\bin\Debug\net9.0\Domain.pdb
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.dll
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.pdb
+C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\ref\Domain.dll

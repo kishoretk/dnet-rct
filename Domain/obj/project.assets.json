@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kisho\\.nuget\\packages\\": {},
+    "C:\\Users\\thondak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\kisho\\.nuget\\packages\\",
-      "outputPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\obj\\",
+      "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\thondak\\.nuget\\packages\\",
+      "outputPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thondak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -49,9 +49,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

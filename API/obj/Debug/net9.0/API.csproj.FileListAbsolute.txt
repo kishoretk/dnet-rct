@@ -294,3 +294,11 @@ C:\All\Samples\DotNet\dnet-rct\API\obj\Debug\net9.0\refint\API.dll
 C:\All\Samples\DotNet\dnet-rct\API\obj\Debug\net9.0\API.pdb
 C:\All\Samples\DotNet\dnet-rct\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\All\Samples\DotNet\dnet-rct\API\obj\Debug\net9.0\ref\API.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\obj\Debug\net9.0\API.sourcelink.json
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\MediatR.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\AutoMapper.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Kishore\Samples\dotnet\dnet-rct\API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll

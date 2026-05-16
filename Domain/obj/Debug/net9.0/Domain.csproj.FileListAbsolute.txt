@@ -21,3 +21,4 @@ C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.dll
 C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\Domain.pdb
 C:\All\Samples\DotNet\dnet-rct\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Domain\obj\Debug\net9.0\Domain.sourcelink.json

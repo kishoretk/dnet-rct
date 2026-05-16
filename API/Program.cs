@@ -11,7 +11,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 builder.Services.AddCors();
-
+builder.Services.AddMediatR(x => x.RegisterServicesFromAssemblyContaining<Application.Activities.Queries.GetActivityList.Handler>());
+builder.Services.AddAutoMapper(cfg => cfg.AddMaps(typeof(Application.Core.MappingProfiles).Assembly));
 
 var app = builder.Build();
 

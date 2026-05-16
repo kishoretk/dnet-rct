@@ -33,3 +33,4 @@ C:\All\Samples\DotNet\dnet-rct\Application\obj\Debug\net9.0\Application.dll
 C:\All\Samples\DotNet\dnet-rct\Application\obj\Debug\net9.0\refint\Application.dll
 C:\All\Samples\DotNet\dnet-rct\Application\obj\Debug\net9.0\Application.pdb
 C:\All\Samples\DotNet\dnet-rct\Application\obj\Debug\net9.0\ref\Application.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Application\obj\Debug\net9.0\Application.sourcelink.json

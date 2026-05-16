@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\All\\Samples\\DotNet\\dnet-rct\\API\\API.csproj": {}
+    "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\All\\Samples\\DotNet\\dnet-rct\\API\\API.csproj": {
+    "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\All\\Samples\\DotNet\\dnet-rct\\API\\API.csproj",
+        "projectUniqueName": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\thondak\\.nuget\\packages\\",
-        "outputPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\API\\obj\\",
+        "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\kisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thondak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\All\\Samples\\DotNet\\dnet-rct\\Application\\Application.csproj": {
-                "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Application\\Application.csproj"
+              "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Application\\Application.csproj": {
+                "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Application\\Application.csproj"
               }
             }
           }
@@ -46,9 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -78,24 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\All\\Samples\\DotNet\\dnet-rct\\Application\\Application.csproj": {
+    "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\All\\Samples\\DotNet\\dnet-rct\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\thondak\\.nuget\\packages\\",
-        "outputPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Application\\obj\\",
+        "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\kisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thondak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -110,11 +110,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj"
+              "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj"
               },
-              "C:\\All\\Samples\\DotNet\\dnet-rct\\Persistance\\Persistance.csproj": {
-                "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Persistance\\Persistance.csproj"
+              "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Persistance\\Persistance.csproj": {
+                "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Persistance\\Persistance.csproj"
               }
             }
           }
@@ -127,13 +127,23 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -150,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj": {
+    "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\thondak\\.nuget\\packages\\",
-        "outputPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\obj\\",
+        "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\kisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thondak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -192,9 +202,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -215,24 +225,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\All\\Samples\\DotNet\\dnet-rct\\Persistance\\Persistance.csproj": {
+    "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\All\\Samples\\DotNet\\dnet-rct\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Persistance\\Persistance.csproj",
-        "packagesPath": "C:\\Users\\thondak\\.nuget\\packages\\",
-        "outputPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Persistance\\obj\\",
+        "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\kisho\\.nuget\\packages\\",
+        "outputPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thondak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -247,8 +257,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\All\\Samples\\DotNet\\dnet-rct\\Domain\\Domain.csproj"
+              "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Kishore\\Samples\\dotnet\\dnet-rct\\Domain\\Domain.csproj"
               }
             }
           }
@@ -261,9 +271,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -290,7 +300,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

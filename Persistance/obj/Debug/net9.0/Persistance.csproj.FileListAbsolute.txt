@@ -29,3 +29,4 @@ C:\All\Samples\DotNet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.dll
 C:\All\Samples\DotNet\dnet-rct\Persistance\obj\Debug\net9.0\refint\Persistance.dll
 C:\All\Samples\DotNet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.pdb
 C:\All\Samples\DotNet\dnet-rct\Persistance\obj\Debug\net9.0\ref\Persistance.dll
+D:\Kishore\Samples\dotnet\dnet-rct\Persistance\obj\Debug\net9.0\Persistance.sourcelink.json

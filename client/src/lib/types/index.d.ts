@@ -10,3 +10,11 @@ type Activity = {
   latitude: number;
   longitude: number;
 };
+
+type TaskItem = {
+  id: string;
+  title: string;
+  description: string;
+  dateAdded: string;
+  iscompleted: boolean;
+}
